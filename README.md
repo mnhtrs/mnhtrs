@@ -2,32 +2,34 @@
 * I'm on a journey to better myself, and I'd really appreciate your support along the way. 😅
 * Feel free to contact me via social media if you would like to discuss a project or simply chat as a friend. 👉👈
 <br/> <br/>
-[![](https://visitcount.itsvg.in/api?id=Tcoder206&icon=5&color=12)](https://visitcount.itsvg.in)
-![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg)
 [![wakatime](https://wakatime.com/badge/user/6287492b-0236-43e2-b66b-2dbe0984ffe8.svg)](https://wakatime.com/@lnmtris)
+![](https://komarev.com/ghpvc/?username=mnhtrs&abbreviated=true&color=fe6aa9)
+<!-- ![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg) -->
 ---
 ### 📊 GitHub Stats:
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tcoder206&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github"></td>
-    <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcoder206&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=mnhtrs&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github&format=png"></td>
+    <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhtrs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tcoder206&theme=transparent&hide_border=true&no-bg=true"></td>
-    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=tcoder206&theme=algolia&row=2&column=4&margin-w=5&margin-h=5&no-bg=true&hide_border=true"></td>
+    <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mnhtrs&theme=transparent&hide_border=true&no-bg=true&format=png"></td>
+    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=mnhtrs&theme=algolia&row=2&column=4&margin-w=5&margin-h=5&no-bg=true&hide_border=true&format=png"></td>
   </tr>
 </table>
 
 ---
 ### 📈 Contribution Line Graph:
-<p align="center"> <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=tcoder206&bg_color=07114a&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Minh Tris's Github Graph" /> </p>
+<p align="center"> <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=mnhtrs&bg_color=07114a&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Minh Tris's Github Graph" /> </p>
 
+<!--
 ---
 ### 👥 Socials: 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@mtrisdpad) 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)<!--[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lê-nguyễn-minh-trí-114b58311?utm_source=share&utm_campaign=share_via&utm_content=profile)-->
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lê-nguyễn-minh-trí-114b58311?utm_source=share&utm_campaign=share_via&utm_content=profile)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@deverycode)
 ![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 [![Gravatar](https://img.shields.io/badge/gravatar-blue?style=for-the-badge&logo=Gravatar&logoColor=white)](https://gravatar.com/lnmtris)
