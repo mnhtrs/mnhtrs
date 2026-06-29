@@ -218,7 +218,7 @@
 
 ---
 -->
-<p align="center"><img src="./VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/></p>
+<p align="center"><img src="/VegetaUltraEgo.jpg" alt="Vegeta - Super Saiyan Ultra Ego"/></p>
 
 <!---
 ---
