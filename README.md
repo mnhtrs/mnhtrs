@@ -6,17 +6,17 @@
 <br/> <br/>
 [![wakatime](https://wakatime.com/badge/user/6287492b-0236-43e2-b66b-2dbe0984ffe8.svg)](https://wakatime.com/@lnmtris)
 ![](https://komarev.com/ghpvc/?username=mnhtrs&abbreviated=true&color=fe6aa9)
-<!-- ![](https://img.shields.io/badge/Sad_Boy-Misses_You-fff.svg) -->
+
 ---
 ### 📊 GitHub Stats:
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=mnhtrs&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github&format=png"></td>
-    <td align="center"><img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnhtrs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
+    <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=mnhtrs&theme=transparent&hide_border=true&include_all_commits=true&no-bg=true&rank_icon=github&format=png"></td>
+    <td align="center"><img width="350" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mnhtrs&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&no-bg=true"></td>
   </tr>
   <tr>
     <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mnhtrs&theme=transparent&hide_border=true&no-bg=true&format=png"></td>
-    <td align="center"><img src="https://github-profile-trophy.vercel.app/?username=mnhtrs&theme=algolia&row=2&column=4&margin-w=5&margin-h=5&no-bg=true&hide_border=true&format=png"></td>
+    <td align="center"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=mnhtrs&theme=algolia&row=2&column=4&margin-w=5&margin-h=5&no-bg=true&hide_border=true&format=png"></td>
   </tr>
 </table>
 
@@ -88,7 +88,6 @@
 </p>
 
 ---
-
 ### ⚙️ Backend
 
 <p align="center">
