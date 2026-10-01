@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&size=50&duration=2000&pause=3000&color=0BB1F7&center=true&vCenter=true&width=700&height=70&lines=%F0%9F%98%80+Hello%2C+my+name+is+Minh+Tris;%F0%9F%90%A7+I'm+absolutely+classy+%28j4f%29;%F0%9F%AB%A3+What+brings+you+here%3F;+%F0%9F%A4%97+Have+a+nice+day!" alt="Typing SVG" />
-  <img width="69%" src="./cute_cat.png">
+  <img width="74%" src="./cute_cat.png">
 </p>
 <div align="center">
   <a href="https://wakatime.com/@lnmtris"><img src="https://wakatime.com/badge/user/6287492b-0236-43e2-b66b-2dbe0984ffe8.svg" alt="wakatime"/></a>
