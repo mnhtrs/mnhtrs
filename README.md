@@ -124,6 +124,25 @@
     <td align="center"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=mnhtrs&theme=algolia&row=2&column=4&margin-w=5&margin-h=5&no-bg=true&hide_border=true&format=png"></td>
   </tr>
 </table>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mnhtrs/mnhtrs/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mnhtrs/mnhtrs/output/pacman-contribution-graph.svg"
+    />
+    <img
+      width="1000"
+      alt="Pac-Man contribution graph of mnhtrs"
+      src="https://raw.githubusercontent.com/mnhtrs/mnhtrs/output/pacman-contribution-graph.svg"
+    />
+  </picture>
+</p>
+
 <p align="center"> <img width="1000" src="https://github-activity-graph.luckylinux.dev/graph?username=mnhtrs&theme=vue&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="MTris's Github Graph" /> </p>
 <br/>
 
